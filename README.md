@@ -14,3 +14,8 @@ Ubuntu
 ``` sh
 sudo apt install Wine
 ```
+
+## Authors
+
+- [W1ckedOneshot](https://t.me/w1cked_oneshot)
+
